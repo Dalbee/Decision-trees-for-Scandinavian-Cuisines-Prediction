@@ -1,4 +1,4 @@
-# Decision-trees-for-European-Cuisine-prediction.
+# Decision-trees-for-European|Scandinavian-Cuisine-prediction.
 This is a modification of a basic exercise on cousera.
 https://www.coursera.org/learn/data-science-methodology/
 
