@@ -1,8 +1,8 @@
 # Decision-trees-for-European|Scandinavian-Cuisine-prediction.
-This is a modification of a basic exercise on cousera.
+This is a modification of a project on cousera.
 https://www.coursera.org/learn/data-science-methodology/
 
-In the original exercise, test were made for indian,and Asian cuisines.
+In the original project, test were made for indian,and Asian cuisines.
 
 I have decided to test for all european cuisines in the dataset. My aim is to see how well the classifier works for european cuisines. I'm thinking that european cuisines are very similar. This test will help me find out. I also want to find out how well the classifier distinquishes between european cuisines and scandinavia cuisines.
 
