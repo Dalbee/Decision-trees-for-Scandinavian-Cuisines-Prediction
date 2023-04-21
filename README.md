@@ -1,5 +1,5 @@
 # Decision-trees-for-European|Scandinavian-Cuisine-prediction.
-This is a modification of a project on cousera.
+This is a Data Science project on cousera.
 https://www.coursera.org/learn/data-science-methodology/
 
 In the original project, test were made for indian,and Asian cuisines.
